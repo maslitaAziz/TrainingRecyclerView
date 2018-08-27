@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Training Recycler View</string>
+
+    <string-array name="nama_tempat">
+        <item>Kuala Lumpur</item>
+        <item>Melaka</item>
+        <item>Pulau Pinang</item>
+        <item>Negeri Sembilan</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Menara KLCC</item>
+        <item>A Famosa</item>
+        <item>Jambatan Pulau Pinang</item>
+        <item>Air Panas Negeri Sembilan</item>
+    </string-array>
+
+    <string-array name="imej">
+        <item>@drawable/klcc1</item>
+        <item>@drawable/afamosa</item>
+        <item>@drawable/jambatan_pp</item>
+        <item>@drawable/air_panas_pedas</item>
+    </string-array>
+</resources>
